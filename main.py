@@ -67,7 +67,7 @@ async def start(bot, update):
                                      "Bot made by **ACE**" )
 
 ACCOUNT_ID = "6206459123001"
-BCOV_POLICY = "BCpkADawqM1474MvKwYlMRZNBPoqkJY-UWm7zE1U769d5r5kqTjG0v8L-THXuVZtdIQJpfMPB37L_VJQxTKeNeLO2Eac_yMywEgyV9GjFDQ2LTiT4FEiHhKAUvdbx9ku6fGnQKSMB8J5uIDd"
+BCOV_POLICY = "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhY2NpZCI6IjYyMDY0NTkxMjMwMDEiLCJleHAiOjE3MjEwMTg2MzUsImlhdCI6MTcyMDkzMjIzNSwiY29uaWQiOiI2MzEyNzQ1NzA2MTEyIiwibWF4aXAiOjEsInBybyI6ImFlczEyOCJ9"
 bc_url = (
     f"https://edge.api.brightcove.com/playback/v1/accounts/{ACCOUNT_ID}/videos"
 )
